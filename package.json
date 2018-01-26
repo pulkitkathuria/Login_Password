@@ -9,7 +9,7 @@
     "mysql2": "^1.5.1",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
-    "sequelize": "^4.28.1"
+    "sequelize": "^4.32.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -18,5 +18,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pulkitkathuria/Login_Password.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pulkitkathuria/Login_Password/issues"
+  },
+  "homepage": "https://github.com/pulkitkathuria/Login_Password#readme",
   "description": ""
 }
